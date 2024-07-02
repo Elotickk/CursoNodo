@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/canvas.unity
+    guid: 69ee3a8a85883c44d87157f01ecbad3d
+  - enabled: 1
+    path: Assets/Scenes/FisicasParticulas.unity
+    guid: 255827b6603bdc04f98e245581bd057d
+  m_configObjects: {}
